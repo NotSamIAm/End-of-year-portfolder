@@ -1,0 +1,13 @@
+#box1{
+    border: 10px green solid;
+    -webkit-border-radius: 10px
+}
+p{
+    color: #00CC00;
+    font-family: Courier;
+    font-size: 20
+}
+img {
+height: 200px;
+width: auto;
+}

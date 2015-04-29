@@ -1,0 +1,35 @@
+body{
+	background-color:black;
+}
+
+#display{
+	width:162px;
+	height: 50px;
+	border: 1px solid black;
+	margin-bottom: 5px;
+	text-align:center;
+	background-color: white
+}
+
+.row{
+
+}
+
+.button{
+	background-color: grey;
+	display:inline-block;
+	height: 50px;
+	width: 50px;
+	border: 1px solid black;
+	text-align:center;
+	transition: all 0.5s ease;
+}
+
+.button:hover{
+	background-color: white;
+}
+
+
+.opp{
+	background-color: blue;
+}
